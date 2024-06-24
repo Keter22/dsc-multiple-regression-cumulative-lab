@@ -1,0 +1,3 @@
+pip install numpy pandas scikit-learn tensorflow torch matplotlib seaborn django flask requests beautifulsoup4 scrapy sqlalchemy nltk spacy gensim transformers opencv-python Pillow pytest flask_sqlalchemy
+
+
